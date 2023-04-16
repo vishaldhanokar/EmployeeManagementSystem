@@ -8,4 +8,4 @@ operations on Employee data.
 •Implement Maven In The Project.
 •Crud Operation Utilization which Includes Java,Spring Boot,Spring
 Framework,Hibernate .
-•Dependencies Used :- Spring Web,JPA,Spring Dev Tools,Mysql.
+•Dependencies Used :- Spring Web,JPA,Spring Dev Tools,Mysql
